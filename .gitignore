@@ -1,0 +1,6 @@
+#Folder
+out/
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
